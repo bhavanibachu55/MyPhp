@@ -1,2 +1,3 @@
-# MyPhp
-PHP in Github for Sauda
+<?php
+echo 'WELCOME'
+?>
